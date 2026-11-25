@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Reckon Technologies Ltd. Product Blogs: ERP, CRM and AI Provider in Bangladesh"
-description: "Index of Reckon Technologies Ltd. product blogs and wikis: ReckonERP, accounting, distribution, HRMS, CRM, AI sales agent, AI copilot and SEO agent. Built in Bangladesh. Visit app.reckon.tech."
-keywords: "ERP provider Bangladesh, CRM provider Bangladesh, AI provider Bangladesh, ReckonERP, ERP software Bangladesh, HRMS Bangladesh, accounting software Bangladesh, AI sales agent, Reckon Technologies Ltd"
+title: "Reckon Technologies Ltd. Product Blogs: AI, ERP and CRM Provider in Bangladesh"
+description: "Index of Reckon Technologies Ltd. product blogs and wikis: AI sales agent, AI copilot, SEO agent, CRM, ReckonERP, accounting, distribution and HRMS. Built in Bangladesh. Visit app.reckon.tech."
+keywords: "AI provider Bangladesh, ERP provider Bangladesh, CRM provider Bangladesh, ReckonERP, AI sales agent, ERP software Bangladesh, HRMS Bangladesh, accounting software Bangladesh, Reckon Technologies Ltd"
 lang: en
 ---
 
@@ -10,12 +10,23 @@ lang: en
 
 <img src="banner.svg" alt="Reckon Technologies Ltd. product blogs" style="width:100%;border-radius:12px">
 
-Reckon Technologies Ltd. builds ERP, CRM and AI products for businesses in Bangladesh, in Bangla and English. Every product below is part of [ReckonERP](https://app.reckon.tech), which you can subscribe to yourself and set up with guidance from Ask Aura AI.
+Reckon Technologies Ltd. builds AI, ERP and CRM products for businesses in Bangladesh, in Bangla and English. Every product below is part of [ReckonERP](https://app.reckon.tech), which you can subscribe to yourself and set up with guidance from Ask Aura AI.
 
 - [Visit app.reckon.tech](https://app.reckon.tech)
 - [Sign up for ReckonERP](https://app.reckon.tech/reckonerp-signup)
 - [Reckon blog on Hashnode](https://reckonerp.hashnode.dev)
 - [Reckon Technologies on LinkedIn](https://bd.linkedin.com/company/reckontech)
+
+## AI agents, CRM and sales
+
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin:12px 0 28px">
+<div style="border:1px solid #d0d7de;border-radius:12px;overflow:hidden;background:#fff"><a href="https://techwithzakir.github.io/reckon_sales_agent/"><img src="https://techwithzakir.github.io/reckon_sales_agent/banner.svg" alt="Reckon SalesPilot" style="width:100%;display:block"></a><div style="padding:12px 14px"><a href="https://techwithzakir.github.io/reckon_sales_agent/" style="font-weight:700;font-size:17px;text-decoration:none">Reckon SalesPilot</a><p style="margin:6px 0 8px;font-size:14px;color:#57606a">AI sales agent: discover, research, score and reach out.</p><a href="https://techwithzakir.github.io/reckon_sales_agent/" style="font-size:14px">Read the blog</a> &middot; <a href="https://github.com/TechwithZakir/reckon_sales_agent/wiki" style="font-size:14px">Wiki</a></div></div>
+<div style="border:1px solid #d0d7de;border-radius:12px;overflow:hidden;background:#fff"><a href="https://techwithzakir.github.io/Reckon_Copilot/"><img src="https://techwithzakir.github.io/Reckon_Copilot/banner.svg" alt="Reckon Copilot" style="width:100%;display:block"></a><div style="padding:12px 14px"><a href="https://techwithzakir.github.io/Reckon_Copilot/" style="font-weight:700;font-size:17px;text-decoration:none">Reckon Copilot</a><p style="margin:6px 0 8px;font-size:14px;color:#57606a">AI assistant inside the ERP with approve-first actions.</p><a href="https://techwithzakir.github.io/Reckon_Copilot/" style="font-size:14px">Read the blog</a> &middot; <a href="https://github.com/TechwithZakir/Reckon_Copilot/wiki" style="font-size:14px">Wiki</a></div></div>
+<div style="border:1px solid #d0d7de;border-radius:12px;overflow:hidden;background:#fff"><a href="https://techwithzakir.github.io/financial_ai_agent/"><img src="https://techwithzakir.github.io/financial_ai_agent/banner.svg" alt="Financial AI Agent" style="width:100%;display:block"></a><div style="padding:12px 14px"><a href="https://techwithzakir.github.io/financial_ai_agent/" style="font-weight:700;font-size:17px;text-decoration:none">Financial AI Agent</a><p style="margin:6px 0 8px;font-size:14px;color:#57606a">Documents, RAG and governed CRM actions.</p><a href="https://techwithzakir.github.io/financial_ai_agent/" style="font-size:14px">Read the blog</a> &middot; <a href="https://github.com/TechwithZakir/financial_ai_agent/wiki" style="font-size:14px">Wiki</a></div></div>
+<div style="border:1px solid #d0d7de;border-radius:12px;overflow:hidden;background:#fff"><a href="https://techwithzakir.github.io/ReckonSEOAgent/"><img src="https://techwithzakir.github.io/ReckonSEOAgent/banner.svg" alt="Reckon SEO Autopilot" style="width:100%;display:block"></a><div style="padding:12px 14px"><a href="https://techwithzakir.github.io/ReckonSEOAgent/" style="font-weight:700;font-size:17px;text-decoration:none">Reckon SEO Autopilot</a><p style="margin:6px 0 8px;font-size:14px;color:#57606a">AI-native SEO audits and approval-gated actions.</p><a href="https://techwithzakir.github.io/ReckonSEOAgent/" style="font-size:14px">Read the blog</a> &middot; <a href="https://github.com/TechwithZakir/ReckonSEOAgent/wiki" style="font-size:14px">Wiki</a></div></div>
+<div style="border:1px solid #d0d7de;border-radius:12px;overflow:hidden;background:#fff"><a href="https://techwithzakir.github.io/reckon_crm/"><img src="https://techwithzakir.github.io/reckon_crm/banner.svg" alt="Reckon CRM" style="width:100%;display:block"></a><div style="padding:12px 14px"><a href="https://techwithzakir.github.io/reckon_crm/" style="font-weight:700;font-size:17px;text-decoration:none">Reckon CRM</a><p style="margin:6px 0 8px;font-size:14px;color:#57606a">CRM on Frappe CRM for Bangladesh businesses.</p><a href="https://techwithzakir.github.io/reckon_crm/" style="font-size:14px">Read the blog</a> &middot; <a href="https://github.com/TechwithZakir/reckon_crm/wiki" style="font-size:14px">Wiki</a></div></div>
+<div style="border:1px solid #d0d7de;border-radius:12px;overflow:hidden;background:#fff"><a href="https://techwithzakir.github.io/reckon_loyalty/"><img src="https://techwithzakir.github.io/reckon_loyalty/banner.svg" alt="Reckon Loyalty" style="width:100%;display:block"></a><div style="padding:12px 14px"><a href="https://techwithzakir.github.io/reckon_loyalty/" style="font-weight:700;font-size:17px;text-decoration:none">Reckon Loyalty</a><p style="margin:6px 0 8px;font-size:14px;color:#57606a">Retail CRM, membership and loyalty with a POS API.</p><a href="https://techwithzakir.github.io/reckon_loyalty/" style="font-size:14px">Read the blog</a> &middot; <a href="https://github.com/TechwithZakir/reckon_loyalty/wiki" style="font-size:14px">Wiki</a></div></div>
+</div>
 
 ## ERP, accounting and industry modules
 
@@ -37,17 +48,6 @@ Reckon Technologies Ltd. builds ERP, CRM and AI products for businesses in Bangl
 <div style="border:1px solid #d0d7de;border-radius:12px;overflow:hidden;background:#fff"><a href="https://techwithzakir.github.io/Reckon-HRPolicy/"><img src="https://techwithzakir.github.io/Reckon-HRPolicy/banner.svg" alt="Reckon HR Policy" style="width:100%;display:block"></a><div style="padding:12px 14px"><a href="https://techwithzakir.github.io/Reckon-HRPolicy/" style="font-weight:700;font-size:17px;text-decoration:none">Reckon HR Policy</a><p style="margin:6px 0 8px;font-size:14px;color:#57606a">HR policy management for Bangladesh businesses.</p><a href="https://techwithzakir.github.io/Reckon-HRPolicy/" style="font-size:14px">Read the blog</a> &middot; <a href="https://github.com/TechwithZakir/Reckon-HRPolicy/wiki" style="font-size:14px">Wiki</a></div></div>
 </div>
 
-## CRM, sales and AI
-
-<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin:12px 0 28px">
-<div style="border:1px solid #d0d7de;border-radius:12px;overflow:hidden;background:#fff"><a href="https://techwithzakir.github.io/reckon_crm/"><img src="https://techwithzakir.github.io/reckon_crm/banner.svg" alt="Reckon CRM" style="width:100%;display:block"></a><div style="padding:12px 14px"><a href="https://techwithzakir.github.io/reckon_crm/" style="font-weight:700;font-size:17px;text-decoration:none">Reckon CRM</a><p style="margin:6px 0 8px;font-size:14px;color:#57606a">CRM on Frappe CRM for Bangladesh businesses.</p><a href="https://techwithzakir.github.io/reckon_crm/" style="font-size:14px">Read the blog</a> &middot; <a href="https://github.com/TechwithZakir/reckon_crm/wiki" style="font-size:14px">Wiki</a></div></div>
-<div style="border:1px solid #d0d7de;border-radius:12px;overflow:hidden;background:#fff"><a href="https://techwithzakir.github.io/reckon_sales_agent/"><img src="https://techwithzakir.github.io/reckon_sales_agent/banner.svg" alt="Reckon SalesPilot" style="width:100%;display:block"></a><div style="padding:12px 14px"><a href="https://techwithzakir.github.io/reckon_sales_agent/" style="font-weight:700;font-size:17px;text-decoration:none">Reckon SalesPilot</a><p style="margin:6px 0 8px;font-size:14px;color:#57606a">AI sales agent: discover, research, score and reach out.</p><a href="https://techwithzakir.github.io/reckon_sales_agent/" style="font-size:14px">Read the blog</a> &middot; <a href="https://github.com/TechwithZakir/reckon_sales_agent/wiki" style="font-size:14px">Wiki</a></div></div>
-<div style="border:1px solid #d0d7de;border-radius:12px;overflow:hidden;background:#fff"><a href="https://techwithzakir.github.io/reckon_loyalty/"><img src="https://techwithzakir.github.io/reckon_loyalty/banner.svg" alt="Reckon Loyalty" style="width:100%;display:block"></a><div style="padding:12px 14px"><a href="https://techwithzakir.github.io/reckon_loyalty/" style="font-weight:700;font-size:17px;text-decoration:none">Reckon Loyalty</a><p style="margin:6px 0 8px;font-size:14px;color:#57606a">Retail CRM, membership and loyalty with a POS API.</p><a href="https://techwithzakir.github.io/reckon_loyalty/" style="font-size:14px">Read the blog</a> &middot; <a href="https://github.com/TechwithZakir/reckon_loyalty/wiki" style="font-size:14px">Wiki</a></div></div>
-<div style="border:1px solid #d0d7de;border-radius:12px;overflow:hidden;background:#fff"><a href="https://techwithzakir.github.io/Reckon_Copilot/"><img src="https://techwithzakir.github.io/Reckon_Copilot/banner.svg" alt="Reckon Copilot" style="width:100%;display:block"></a><div style="padding:12px 14px"><a href="https://techwithzakir.github.io/Reckon_Copilot/" style="font-weight:700;font-size:17px;text-decoration:none">Reckon Copilot</a><p style="margin:6px 0 8px;font-size:14px;color:#57606a">AI assistant inside the ERP with approve-first actions.</p><a href="https://techwithzakir.github.io/Reckon_Copilot/" style="font-size:14px">Read the blog</a> &middot; <a href="https://github.com/TechwithZakir/Reckon_Copilot/wiki" style="font-size:14px">Wiki</a></div></div>
-<div style="border:1px solid #d0d7de;border-radius:12px;overflow:hidden;background:#fff"><a href="https://techwithzakir.github.io/financial_ai_agent/"><img src="https://techwithzakir.github.io/financial_ai_agent/banner.svg" alt="Financial AI Agent" style="width:100%;display:block"></a><div style="padding:12px 14px"><a href="https://techwithzakir.github.io/financial_ai_agent/" style="font-weight:700;font-size:17px;text-decoration:none">Financial AI Agent</a><p style="margin:6px 0 8px;font-size:14px;color:#57606a">Documents, RAG and governed CRM actions.</p><a href="https://techwithzakir.github.io/financial_ai_agent/" style="font-size:14px">Read the blog</a> &middot; <a href="https://github.com/TechwithZakir/financial_ai_agent/wiki" style="font-size:14px">Wiki</a></div></div>
-<div style="border:1px solid #d0d7de;border-radius:12px;overflow:hidden;background:#fff"><a href="https://techwithzakir.github.io/ReckonSEOAgent/"><img src="https://techwithzakir.github.io/ReckonSEOAgent/banner.svg" alt="Reckon SEO Autopilot" style="width:100%;display:block"></a><div style="padding:12px 14px"><a href="https://techwithzakir.github.io/ReckonSEOAgent/" style="font-weight:700;font-size:17px;text-decoration:none">Reckon SEO Autopilot</a><p style="margin:6px 0 8px;font-size:14px;color:#57606a">AI-native SEO audits and approval-gated actions.</p><a href="https://techwithzakir.github.io/ReckonSEOAgent/" style="font-size:14px">Read the blog</a> &middot; <a href="https://github.com/TechwithZakir/ReckonSEOAgent/wiki" style="font-size:14px">Wiki</a></div></div>
-</div>
-
 ## Platform and design
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin:12px 0 28px">
@@ -55,20 +55,21 @@ Reckon Technologies Ltd. builds ERP, CRM and AI products for businesses in Bangl
 <div style="border:1px solid #d0d7de;border-radius:12px;overflow:hidden;background:#fff"><a href="https://techwithzakir.github.io/ReckonAuraTheme/"><img src="https://techwithzakir.github.io/ReckonAuraTheme/banner.svg" alt="Reckon Aura Theme" style="width:100%;display:block"></a><div style="padding:12px 14px"><a href="https://techwithzakir.github.io/ReckonAuraTheme/" style="font-weight:700;font-size:17px;text-decoration:none">Reckon Aura Theme</a><p style="margin:6px 0 8px;font-size:14px;color:#57606a">A modern Desk theme for ERPNext 16.</p><a href="https://techwithzakir.github.io/ReckonAuraTheme/" style="font-size:14px">Read the blog</a> &middot; <a href="https://github.com/TechwithZakir/ReckonAuraTheme/wiki" style="font-size:14px">Wiki</a></div></div>
 </div>
 
-## Reckon Technologies Ltd. — ERP, CRM and AI Provider in Bangladesh
+## Reckon Technologies Ltd. — AI, ERP and CRM Provider in Bangladesh
 
 ### Company highlights
-- ERP provider with ReckonBooks, distribution and HRMS in Bangla and English
-- CRM provider on Frappe CRM
 - AI company with Reckon SalesPilot, an AI sales agent
+- CRM provider on Frappe CRM
+- ERP provider with ReckonBooks, distribution and HRMS in Bangla and English
 - Industry modules on Frappe/ERPNext: real estate, export-import, distribution, construction, accounts and HR policy
 - Guided implementation with Ask Aura AI
 - Built in Bangladesh
 
 ### Read more
-- [ERP implementation cost in Bangladesh](https://app.reckon.tech/blog/erp-implementation-cost-in-bangladesh)
-- [How to choose an ERP provider in Bangladesh](https://app.reckon.tech/blog/how-to-choose-an-erp-provider-in-bangladesh)
-- [ERP software in Bangladesh: buyer's guide](https://app.reckon.tech/blog/erp-software-in-bangladesh-buyers-guide)
 - [How AI agents are changing business automation](https://app.reckon.tech/blog/how-ai-agents-are-changing-business-automation)
+- [AI agent vs AI chatbot](https://app.reckon.tech/blog/ai-agent-vs-ai-chatbot)
+- [How to implement AI in ERP systems](https://app.reckon.tech/blog/how-to-implement-ai-in-erp-systems)
+- [ERP implementation cost in Bangladesh](https://app.reckon.tech/blog/erp-implementation-cost-in-bangladesh)
+- [ERP software in Bangladesh: buyer's guide](https://app.reckon.tech/blog/erp-software-in-bangladesh-buyers-guide)
 
-*Topics: ERP provider Bangladesh, CRM provider Bangladesh, AI provider Bangladesh, ReckonERP, Reckon Technologies Ltd*
+*Topics: AI provider Bangladesh, ERP provider Bangladesh, CRM provider Bangladesh, ReckonERP, Reckon Technologies Ltd*
